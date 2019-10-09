@@ -1,0 +1,14 @@
+.header {
+  background: #33a9db;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  max-width: 80%;
+  margin: auto;
+  margin-top: 15px;
+}
+
+.header a {
+  color: #fff;
+  text-decoration: none;
+}
